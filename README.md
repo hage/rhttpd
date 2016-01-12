@@ -11,7 +11,7 @@ rhttpd is a simple httpd that is implemented in Ruby.
 
 * `$ cd /your/document/root`
 * `$ rhttpd`
-* open httpd://localhost:8000 in your web browser
+* open http://localhost:8000 in your web browser
 
 ## Options
 
